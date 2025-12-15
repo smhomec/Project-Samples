@@ -1,9 +1,9 @@
 # Project-Samples 
 This repository contains several Python projects that demonstrate my growing skills in programming, problem-solving, automation, and data handling. Each script applies Python to real-world scenarios—ranging from inventory tracking to warehouse management to text encryption—while showcasing clean logic, user interaction, and structured workflow design.
-📘 shelf-track.py — Bookstore Inventory Management System
+📘 shelf-track.py — Bookstore Inventory Management System:
 A full inventory management tool designed to help a bookstore track, update, and organize stock. The program allows users to add new books, search for existing titles, update quantities, and view the entire catalog. It emphasizes structured data handling, error checking, menu-driven navigation, and persistent storage. This project highlights practical experience with file I/O, list and dictionary management, and creating user-friendly interfaces for real business operations.
-👟 inventory.py — Shoe Warehouse Stock-Taking System
+👟 inventory.py — Shoe Warehouse Stock-Taking System:
 This project simulates a warehouse inventory system for a shoe distributor. Users can record product details, update stock levels, calculate restock needs, search for specific items, and view inventory summaries. The script applies core Python concepts such as loops, functions, data structures, and automated calculations. It demonstrates my ability to turn business requirements into efficient, functional processes that support real-world inventory control.
-🔐 cipher.py — ASCII-Based Encryption Tool
+🔐 cipher.py — ASCII-Based Encryption Tool:
 cipher.py is a custom encryption program that shifts letters by the 15th character ahead of the original using ASCII values. This implementation explores how characters are represented internally, how arithmetic operations affect encoding, and how to transform plaintext into encoded messages. The project strengthens understanding of ASCII manipulation, modular arithmetic, input handling, and custom algorithm design. It also reflects early experience with cryptography concepts and secure coding techniques.
 Together, these projects demonstrate a strong foundation in Python scripting, logical thinking, and applying technical solutions to practical problems. They reflect my commitment to continuous learning and my ability to design programs that solve real operational challenges while reinforcing core cybersecurity and programming skills.
